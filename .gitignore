@@ -21,6 +21,7 @@ minecraft/config/auto-updater/updater_list.json
 minecraft/config/iris.properties
 minecraft/config/vmp.properties
 minecraft/config/lodestone-client.toml
+minecraft/config/voicechat/voicechat-client.properties
 
 # root files
 minecraft/heracles_options.json
@@ -50,6 +51,7 @@ minecraft/crash-reports/
 minecraft/./data/
 minecraft/local/
 minecraft/logs/
+minecraft/mods/.connector/
 minecraft/moddata/
 minecraft/modernfix/
 minecraft/ModTranslations/
@@ -62,4 +64,3 @@ minecraft/shaderpacks/
 minecraft/texturepacks/
 minecraft/Xaero*/
 minecraft/xaero*/
-minecraft/config/voicechat/voicechat-client.properties

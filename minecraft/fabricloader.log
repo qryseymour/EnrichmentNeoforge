@@ -1,0 +1,4 @@
+[17:17:08] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[17:17:08] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE extraorigins 1.20-8 {depends pehkui @ [*]}, ROOT_FORCELOAD_SINGLE extraorigins 1.20-8]
+[17:17:08] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP extraorigins 1.20-8 {depends pehkui @ [*]}]
+[17:17:08] [INFO] [FabricLoader/Resolution]: Fix: add [add:pehkui 1 ([(-∞,∞)])], remove [], replace []
